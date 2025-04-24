@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background -->
+  <rect width="500" height="500" fill="transparent"/>
+  
+  <!-- Brain Outline -->
+  <path d="M250 100c-80 0-150 60-150 150s70 150 150 150 150-60 150-150-70-150-150-150z" fill="transparent" stroke="#f5f5f0" stroke-width="8"/>
+  
+  <!-- Brain Hemispheres -->
+  <path d="M250 120c-40 0-75 30-75 75s35 75 75 75 75-30 75-75-35-75-75-75z" fill="transparent" stroke="#f5f5f0" stroke-width="4"/>
+  <path d="M175 195c0 0 0 50 75 75" fill="transparent" stroke="#f5f5f0" stroke-width="4"/>
+  <path d="M325 195c0 0 0 50-75 75" fill="transparent" stroke="#f5f5f0" stroke-width="4"/>
+  
+  <!-- Brain Folds -->
+  <path d="M200 150c-10 0-20 10-20 20s10 20 20 20 20-10 20-20-10-20-20-20z" fill="transparent" stroke="#f5f5f0" stroke-width="3"/>
+  <path d="M300 150c-10 0-20 10-20 20s10 20 20 20 20-10 20-20-10-20-20-20z" fill="transparent" stroke="#f5f5f0" stroke-width="3"/>
+  <path d="M250 200c-10 0-20 10-20 20s10 20 20 20 20-10 20-20-10-20-20-20z" fill="transparent" stroke="#f5f5f0" stroke-width="3"/>
+  
+  <!-- Circuit Nodes -->
+  <circle cx="200" cy="170" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="300" cy="170" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="250" cy="220" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="180" cy="220" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="320" cy="220" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="220" cy="270" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="280" cy="270" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  <circle cx="250" cy="300" r="8" fill="#1f2937" stroke="#f5f5f0" stroke-width="2"/>
+  
+  <!-- Neural Connections -->
+  <line x1="200" y1="170" x2="250" y2="220" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="300" y1="170" x2="250" y2="220" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="180" y1="220" x2="220" y2="270" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="250" y1="220" x2="220" y2="270" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="250" y1="220" x2="280" y2="270" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="320" y1="220" x2="280" y2="270" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="220" y1="270" x2="250" y2="300" stroke="#f5f5f0" stroke-width="2"/>
+  <line x1="280" y1="270" x2="250" y2="300" stroke="#f5f5f0" stroke-width="2"/>
+  
+  <!-- Glowing Accent Points -->
+  <circle cx="200" cy="170" r="4" fill="#d4af37"/>
+  <circle cx="300" cy="170" r="4" fill="#d4af37"/>
+  <circle cx="250" cy="220" r="4" fill="#d4af37"/>
+  <circle cx="250" cy="300" r="4" fill="#d4af37"/>
+  
+  <!-- Digital Pulses (Animation Effect) -->
+  <circle cx="215" cy="195" r="3" fill="#f5f5f0"/>
+  <circle cx="285" cy="195" r="3" fill="#f5f5f0"/>
+  <circle cx="235" cy="245" r="3" fill="#f5f5f0"/>
+  <circle cx="265" cy="245" r="3" fill="#f5f5f0"/>
+  <circle cx="235" cy="285" r="3" fill="#f5f5f0"/>
+  <circle cx="265" cy="285" r="3" fill="#f5f5f0"/>
+  
+  <!-- Text Element -->
+  <text x="250" y="380" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#f5f5f0">TEMPLARAI</text>
+</svg>
